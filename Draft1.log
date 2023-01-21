@@ -1,0 +1,24 @@
+Circuit: * C:\Users\raipr\OneDrive - International Institute of Information Technology\2022H2\Gitwork\EW2_Audio_Amp\Draft1.asc
+
+WARNING: Node OUT is floating.
+
+WARNING: Less than two connections to node OUT.  This node is used by C1.
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Jan 16 12:03:32 2023
+Total elapsed time: 0.242 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4603
+traniter = 4594
+tranpoints = 1659
+accept = 1422
+rejected = 237
+matrix size = 11
+fillins = 0
+solver = Normal
+Matrix Compiler1: 610 bytes object code size  0.4/0.3/[0.3]
+Matrix Compiler2: off  [0.3]/0.4/0.3
+
