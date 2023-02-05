@@ -4,21 +4,22 @@ WARNING: Node OUT is floating.
 
 WARNING: Less than two connections to node OUT.  This node is used by C4.
 Direct Newton iteration for .op point succeeded.
+Changing Tseed to 9.76562e-012
 
-Date: Thu Jan 19 12:48:01 2023
-Total elapsed time: 0.068 seconds.
+Date: Mon Jan 23 11:57:40 2023
+Total elapsed time: 0.045 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 2129
-traniter = 2124
-tranpoints = 1046
-accept = 1045
-rejected = 1
-matrix size = 48
-fillins = 18
+totiter = 2251
+traniter = 2245
+tranpoints = 1048
+accept = 1041
+rejected = 6
+matrix size = 46
+fillins = 14
 solver = Normal
-Matrix Compiler1: 4.38 KB object code size  0.7/0.3/[0.3]
-Matrix Compiler2: off  [0.3]/0.4/0.4
+Matrix Compiler1:     233 opcodes  0.6/[0.3]/0.3
+Matrix Compiler2: off  [0.3]/0.4/0.3
 
