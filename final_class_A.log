@@ -1,0 +1,21 @@
+Circuit: * C:\Users\rohan\OneDrive - International Institute of Information Technology (1)\Sem6\EW-2\aduio_amp\EW2_Audio_Amp\final_class_A.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Feb 12 12:15:08 2023
+Total elapsed time: 0.218 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2087
+traniter = 2082
+tranpoints = 1042
+accept = 1042
+rejected = 0
+matrix size = 18
+fillins = 0
+solver = Normal
+Matrix Compiler1: 1.10 KB object code size  0.4/0.3/[0.2]
+Matrix Compiler2: off  [0.2]/0.4/0.3
+

@@ -1,24 +1,21 @@
 Circuit: * C:\Users\rohan\OneDrive - International Institute of Information Technology (1)\Sem6\EW-2\aduio_amp\EW2_Audio_Amp\made by rohan.asc
 
-WARNING: Node OUT is floating.
-
-WARNING: Less than two connections to node OUT.  This node is used by C4.
 Direct Newton iteration for .op point succeeded.
 
-Date: Sat Jan 28 17:17:03 2023
-Total elapsed time: 0.110 seconds.
+Date: Thu Feb 09 02:22:48 2023
+Total elapsed time: 0.094 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 2308
-traniter = 2302
-tranpoints = 1051
-accept = 1046
-rejected = 5
-matrix size = 46
-fillins = 14
+totiter = 2744
+traniter = 2726
+tranpoints = 1099
+accept = 1076
+rejected = 23
+matrix size = 60
+fillins = 33
 solver = Normal
-Matrix Compiler1:     233 opcodes  1.0/[0.5]/0.5
-Matrix Compiler2: 4.18 KB object code size  0.5/0.6/[0.5]
+Matrix Compiler1: 5.57 KB object code size  0.9/0.4/[0.4]
+Matrix Compiler2: 5.73 KB object code size  0.4/0.5/[0.4]
 
