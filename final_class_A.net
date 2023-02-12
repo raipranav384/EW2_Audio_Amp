@@ -1,0 +1,18 @@
+* C:\Users\rohan\OneDrive - International Institute of Information Technology (1)\Sem6\EW-2\aduio_amp\EW2_Audio_Amp\final_class_A.asc
+Q1 N002 N003 OUT 0 BC547B
+V1 N001 0 15
+R1 N001 N002 10
+V2 N003 0 SINE(0 10 10K) AC 1
+R5 OUT 0 1k
+Q2 OUT N004 N005 0 BC547B
+Q3 N004 N004 N005 0 BC547B
+V3 0 N005 15
+R2 0 N004 500
+.model NPN NPN
+.model PNP PNP
+.lib C:\Users\rohan\Documents\LTspiceXVII\lib\cmp\standard.bjt
+;dc V2 -40 40 0.1
+;ac dec 100 1 100MEG
+.tran 1m
+.backanno
+.end
