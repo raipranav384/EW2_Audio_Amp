@@ -1,0 +1,29 @@
+Circuit: * C:\Users\rohan\OneDrive - International Institute of Information Technology (1)\Sem6\EW-2\aduio_amp\EW2_Audio_Amp\filter_multi_feedback.asc
+
+WARNING: Node N021 is floating.
+WARNING: Node NC_01 is floating.
+WARNING: Node NC_02 is floating.
+WARNING: Node N007 is floating.
+WARNING: Node NC_03 is floating.
+
+WARNING: Less than two connections to node NC_01.  This node is used by C8.
+WARNING: Less than two connections to node NC_02.  This node is used by C10.
+WARNING: Less than two connections to node NC_03.  This node is used by C9.
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Feb 13 04:38:24 2023
+Total elapsed time: 0.172 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 21
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 59
+fillins = 38
+solver = Normal
+Matrix Compiler1:     347 opcodes
+Matrix Compiler2: 6.07 KB object code size
